@@ -1,4 +1,4 @@
-🌟📝 Servis Takip Yazılımı 🌟📝
+🌟📝 Servis Takip Yazılımı - FLUTTER 🌟📝
  
  Bu projenin amacı, kullanıcıların ürünleri kolayca eklemesine, güncellemesine ve yönetmesine olanak tanıyan ve aynı zamanda satış süreçlerini verimli bir şekilde takip eden bir uygulama oluşturmaktı. 
  Kullanıcı dostu arayüz ve görsel özelleştirmeler kullanıcı deneyimini iyileştirmek için tasarlandı.
